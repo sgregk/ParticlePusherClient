@@ -23,7 +23,7 @@
  */
 
 #include <WebSocketClient.h>
-#include <WString.h>
+#include "WString.h"
 #include <string.h>
 #include <stdlib.h>
 

@@ -28,7 +28,7 @@
 
 #include <string.h>
 #include <stdlib.h>
-#include <WString.h>
+#include "WString.h"
 #include "Arduino.h"
 #include <WebSocketClient.h>
 

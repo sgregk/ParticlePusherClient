@@ -27,7 +27,7 @@
 
 #include <string.h>
 #include <stdlib.h>
-#include <WString.h>
+#include "WString.h"
 #include <Ethernet.h>
 #include "Arduino.h"
 

@@ -24,7 +24,7 @@
 
 #include <PusherClient.h>
 #include <HashMap/HashMap.h>
-#include <WString.h>
+#include "WString.h"
 #include <string.h>
 #include <stdlib.h>
 
