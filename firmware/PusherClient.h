@@ -31,7 +31,7 @@
 #include "WString.h"
 #include "stdint.h"
 #include "stddef.h"
-#include <WebSocketClient.h>
+#include "WebSocketClient.h"
 
 //Uncomment this to use WIFLY Client
 //#define WIFLY true
