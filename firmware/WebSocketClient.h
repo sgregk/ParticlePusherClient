@@ -24,7 +24,7 @@
 
 #ifndef WEBSOCKETCLIENT_H
 #define WEBSOCKETCLIENT_H_
-
+#include "application.h" 
 #include <string.h>
 #include <stdlib.h>
 #include "WString.h"
