@@ -28,7 +28,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include "WString.h"
-#include <Ethernet.h>
+//#include <Ethernet.h>
 #include "stdint.h"
 #include "stddef.h"
 #include "stdlib.h"
@@ -48,7 +48,7 @@ class WebSocketClient {
 	private:
         String getStringTableItem(int index);
         void sendHandshake(char hostname[], char path[]);
-        EthernetClient _client;
+        TCPClient _client;
         DataArrivedDelegate _dataArrivedDelegate;
         bool readHandshake();
         String readLine();
