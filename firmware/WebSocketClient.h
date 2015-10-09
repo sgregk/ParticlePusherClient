@@ -29,7 +29,9 @@
 #include <stdlib.h>
 #include "WString.h"
 #include <Ethernet.h>
-#include "Arduino.h"
+#include "stdint.h"
+#include "stddef.h"
+#include "stdlib.h"
 
 //Uncomment this to use WIFLY Client
 #define WIFLY true

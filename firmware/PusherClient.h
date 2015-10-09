@@ -29,7 +29,8 @@
 #include <string.h>
 #include <stdlib.h>
 #include "WString.h"
-#include "Arduino.h"
+#include "stdint.h"
+#include "stddef.h"
 #include <WebSocketClient.h>
 
 //Uncomment this to use WIFLY Client
