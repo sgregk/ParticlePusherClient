@@ -22,8 +22,8 @@
  THE SOFTWARE.
  */
 
-#include <PusherClient.h>
-#include <HashMap/HashMap.h>
+#include "PusherClient.h"
+#include "HashMap/HashMap.h
 #include "WString.h"
 #include <string.h>
 #include <stdlib.h>
